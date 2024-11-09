@@ -11,6 +11,11 @@ WhatsApp Chat Analyzer is a data analysis tool for exploring WhatsApp chat data.
 - **Timeline Analysis:** Monthly and daily message timelines.
 - **Activity Analysis:** Visualize weekly and monthly activity patterns.
 - **Emoji Analysis:** Discover frequently used emojis in the chat.
+  
+## Live Demo:
+ ```bash
+https://whatsapp-chat-analyzer-mahak-codes.streamlit.app/
+```
 
 ## Installation
 
