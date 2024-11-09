@@ -6,4 +6,4 @@ matplotlib
 seaborn
 emoji
 urlextract
-python
+python 3.8
